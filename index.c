@@ -4,6 +4,6 @@
 int main () {
 
 
-	printf ("hello world");
+	printf ("hello world 0.0");
 	return 0;
 }
